@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DISTRIBUID SYSTEMS.iml" filepath="$PROJECT_DIR$/.idea/DISTRIBUID SYSTEMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mkservices/customer/customer.iml" filepath="$PROJECT_DIR$/mkservices/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mkservices/fraud/fraud.iml" filepath="$PROJECT_DIR$/mkservices/fraud/fraud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mkservices/mkservices.iml" filepath="$PROJECT_DIR$/mkservices/mkservices.iml" />
+    </modules>
+  </component>
+</project>
